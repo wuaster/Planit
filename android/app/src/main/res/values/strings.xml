@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlanitApp</string>
+    <string name="facebook_app_id">2427964264155467</string>
+    <string name="fb_login_protocol_scheme">fb2427964264155467</string>
+</resources>
